@@ -1,0 +1,30 @@
+.imagen{
+    border-top: 5px double black;;
+    border-left: 5px double black;;
+    border-right: 5px double black;
+    border-bottom: 5px double black;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 80px;
+    margin-left: 150px;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    width: 200px;
+    height: 150px;
+    background: rgba(27, 27, 27, 0.041);
+}
+
+.imagen:hover
+{
+    width: 250px;
+    height: 250px;
+
+}
+.azul {
+    color: rgb(163, 27, 226);
+}
+#cursiva{
+    font-family: "Comic Sans MS",
+sans-serif; }
