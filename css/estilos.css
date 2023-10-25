@@ -3,10 +3,10 @@
     border-left: 5px double black;;
     border-right: 5px double black;
     border-bottom: 5px double black;
-    margin-top: 20px;
-    margin-right: 50px;
+    margin-top: 80px;
+    margin-right: 40px;
     margin-bottom: 80px;
-    margin-left: 150px;
+    margin-left: 500px;
     padding-top: 20px;
     padding-left: 40px;
     padding-bottom: 50px;
@@ -20,11 +20,20 @@
 {
     width: 250px;
     height: 250px;
-
 }
 .azul {
     color: rgb(163, 27, 226);
 }
 #cursiva{
-    font-family: "Comic Sans MS",
-sans-serif; }
+    font-family: "Comic Sans MS", sans-serif; 
+    text-align: center;
+}
+
+.precio{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic ;
+    font-size: 150%;
+    background-color: rgb(216, 201, 201);
+    
+}
