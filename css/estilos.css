@@ -22,7 +22,7 @@
     height: 250px;
 }
 .azul {
-    color: rgb(163, 27, 226);
+    color: rgb(57, 27, 226);
 }
 #cursiva{
     font-family: "Comic Sans MS", sans-serif; 
@@ -34,6 +34,6 @@
     font-weight: bold;
     font-style: italic ;
     font-size: 150%;
-    background-color: rgb(216, 201, 201);
+    background-color: rgb(67, 40, 165);
     
 }
