@@ -1,14 +1,9 @@
-.imagen
-{
+div p {
+    font-size: 20px;
+    }
 
-        background-color: #fff;
-        padding: 20px;
-        margin-bottom: 20px;
-        border: 1px solid #66b2ff;
-        border-radius: 8px;
+
     
-    
-}
 div {
     background-color: #fff;
     padding: 20px;
@@ -44,4 +39,9 @@ nav ul {
 nav ul li {
     display: inline;
     margin-right: 10px;
+}
+
+.imagen {
+    margin: 15px;
+
 }
